@@ -60,5 +60,8 @@ Você pode modificar o `login.json` enquanto o proxy está rodando. Os novos dad
 ## Créditos
 
 By: liox  
-Discord: assumiu
-server: https://discord.gg/d2PP9rYbeY
+Discord:https://discord.gg/d2PP9rYbeY
+
+
+
+
